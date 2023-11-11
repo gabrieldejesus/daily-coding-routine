@@ -1,0 +1,14 @@
+{
+  "name": "simple-remove-duplicates",
+  "version": "1.0.0",
+  "description": "DESCRIPTION: Remove the duplicates from a list of integers, keeping the last ( rightmost ) occurrence of each element.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test:dev": "node --watch --test tests/",
+    "test": "node --test tests/"
+  },
+  "author": "",
+  "license": "MIT"
+}
