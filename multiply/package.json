@@ -1,7 +1,7 @@
 {
-  "name": "simple-remove-duplicates",
+  "name": "multiply",
   "version": "1.0.0",
-  "description": "Remove the duplicates from a list of integers, keeping the last ( rightmost ) occurrence of each element.",
+  "description": "This code does not execute properly. Try to figure out why.",
   "main": "index.js",
   "type": "module",
   "scripts": {
