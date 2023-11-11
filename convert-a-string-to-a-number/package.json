@@ -1,0 +1,14 @@
+{
+  "name": "convert-a-string-to-a-number",
+  "version": "1.0.0",
+  "description": "We need a function that can transform a string into a number. What ways of achieving this do you know?",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test:dev": "node --watch --test tests/",
+    "test": "node --test tests/"
+  },
+  "author": "Gabriel de Jesus <@igabrieldejesus>",
+  "license": "MIT"
+}
