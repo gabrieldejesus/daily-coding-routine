@@ -1,0 +1,14 @@
+{
+  "name": "convert-a-number-to-a-string",
+  "version": "1.0.0",
+  "description": "We need a function that can transform a number (integer) into a string.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test:dev": "node --watch --test tests/",
+    "test": "node --test tests/"
+  },
+  "author": "Gabriel de Jesus <@igabrieldejesus>",
+  "license": "MIT"
+}
