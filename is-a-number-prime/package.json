@@ -1,0 +1,14 @@
+{
+  "name": "is-a-number-prime",
+  "version": "1.0.0",
+  "description": "Define a function that takes an integer argument and returns a logical value true or false depending on if the integer is a prime.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test:dev": "node --watch --test tests/",
+    "test": "node --test tests/"
+  },
+  "author": "Gabriel de Jesus <@igabrieldejesus>",
+  "license": "MIT"
+}
